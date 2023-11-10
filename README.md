@@ -1,5 +1,5 @@
 # TripTales-Starting-Page
-TripTales Landing Page,Contributors and Login Page Frontend created 
+TripTales Landing Page,Contributors and Login Page Frontend created
 Frontend Deployed at-https://kamalpreetsingh178.github.io/TripTales-Starting-Page/index.html
 
 Landing Page-
